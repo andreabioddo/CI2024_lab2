@@ -1,3 +1,4 @@
+# Lab 2 - Proposed Solution
 I developed two algortihms to see and compare different functions that try to solve the same problem. 
 The first algorithm is an Evolutionary Alghorithm and the second one is a Simulation Anelling:
 
