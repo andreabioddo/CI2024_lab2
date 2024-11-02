@@ -1,5 +1,5 @@
 I developed two algortihms to see and compare different functions that try to solve the same problem. 
-The first alghoritm is a Evolutionary Alghorithm and the second is a Simulation Anelling:
+The first algorithm is an Evolutionary Alghorithm and the second one is a Simulation Anelling:
 
 ## Evolutionary Algorithm
 This is a slow but more accurate algorithm, compared with the next one.
